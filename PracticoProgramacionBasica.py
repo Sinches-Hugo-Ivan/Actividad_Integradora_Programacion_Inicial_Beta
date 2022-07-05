@@ -13,7 +13,7 @@ def Pantalla1():
         try:
            #disponemos un ciclo de 5 vueltas
             for x in range(5):
-              valor=int(input('Ingrese 5 numeros enteros: '))
+              valor=int(input('Comenzamos a crear una lista de 5 enteros, ingrese de a uno:'))
               lista.append(valor)
        
             #imprimimos la lista    
